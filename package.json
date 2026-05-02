@@ -1,0 +1,14 @@
+{
+  "name": "roblox-finder-bot",
+  "version": "1.0.0",
+  "description": "Bot para buscar servidores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "noblox.js": "^5.0.0",
+    "express": "^4.18.2"
+  }
+}
+
